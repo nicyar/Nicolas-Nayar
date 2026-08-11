@@ -1,41 +1,47 @@
-# Hola mi nombre es Nicolas-Nayar 👋
-# 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2A3C,100:2E6F9E&height=180&section=header&text=Nicolás%20Nayar&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-Desarrollador enfocado en backend, automatización de procesos y desarrollo de software con Python. Apasionado por resolver problemas reales mediante código eficiente y flujos automatizados.
+  <h3>Desarrollador Backend · Node.js · Python</h3>
+  <p>Construyo sistemas que automatizan y validan procesos reales de negocio.</p>
 
----
+  <!-- <a href="https://linkedin.com/in/nicolas-nayar-9b18081b8">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a> -->
+  <a href="mailto:nayarnicolas2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
 
-## 🚀 Proyectos Destacados
+<br />
 
-### 📄 [RecepcionDocumentacion](https://github.com/nicyar/RecepcionDocumentacion)
-Sistema que recibe libros de sueldos en PDF, los analiza automáticamente con un microservicio de Python y valida reglas de negocio (CUIT, período, firmante, vigencia de certificado) antes de aceptar o rechazar cada documento.
-- **Tecnologías:** Node.js, Express, MySQL, Knex, Python, FastAPI, React, Vite, TailwindCSS.
-- **Destacado:** Arquitectura en capas (domain / application / infraestructure), autenticación JWT propia, y un microservicio Python conectado de punta a punta para análisis de PDFs.
-### 📧 [limpiarMail](https://github.com/nicyar/limpiarMail)
-Script en Python que automatiza la limpieza de casillas de correo filtrando por CUITs en lista negra.
-- **Tecnologías:** Python 3, IMAP, GitHub Actions.
-- **Destacado:** Corre de forma autónoma vía GitHub Actions, con la lista de CUITs y credenciales manejadas por GitHub Secrets — nada sensible queda en el código.
-### 💰 [presupuestador-urbana](https://github.com/nicyar/presupuestador-urbana)
-Aplicación de escritorio hecha con Electron que genera presupuestos en PDF para Urbana Rúbrica Digital.
-- **Tecnologías:** Electron, JavaScript, generación de PDF.
-- **Destacado:** App de escritorio funcional de punta a punta, pensada para uso real por un cliente.
-### 🛒 [Ecommerce-Rest-Api](https://github.com/nicyar/Ecommerce-Rest-Api)
-API REST de e-commerce con arquitectura en capas y patrones DAO/DTO/Factory.
-- **Tecnologías:** Node.js, Express, MongoDB, Passport, JWT, Twilio, Nodemailer.
-- **Destacado:** Autenticación completa, notificaciones por SMS y email, y una arquitectura pensada para escalar.
----
+## Sobre mí
 
-## 🧰 Tech Stack
+Desarrollador backend orientado a sistemas, con foco en Node.js y Python. Diseño arquitecturas en capas, trabajo con bases de datos relacionales y no relacionales, y automatizo procesos que hoy suelen resolverse a mano.
 
-- **Lenguajes:** Python, SQL
-- **Desarrollo Backend:** Flask, Node.js, Express, Python, FastAPI
-- **Automatización & CI/CD:** GitHub Actions, AppScript, Bash
-- **Bases de Datos & Herramientas:** PostgreSQL, SQLite, Git, VS Code, MySQL, MongoDB, Knex
-- **Frontend:** React, Vite, TailwindCSS
-- **Herramientas:** Git, VS Code, MySQL Workbench
+**Stack principal:** Node.js · Express · Python · FastAPI · React · MySQL · MongoDB · Git
 
----
+<br />
 
-## 📫 Contacto
+## Proyectos destacados
 
-- **Email:** nayarnicolas2@gmail.com
+**[RecepcionDocumentacion](https://github.com/nicyar/RecepcionDocumentacion)**
+Sistema que recibe libros de sueldos en PDF, los analiza con un microservicio en Python y valida reglas de negocio (CUIT, período, firmante, vigencia de certificado) antes de aceptar o rechazar cada documento.
+`Node.js` · `Express` · `MySQL` · `Python` · `FastAPI` · `React`
+
+**[limpiarMail](https://github.com/nicyar/limpiarMail)**
+Automatización en Python que filtra y limpia una casilla de correo por lista negra de CUITs, corriendo de forma autónoma vía GitHub Actions.
+`Python` · `IMAP` · `GitHub Actions`
+
+**[presupuestador-urbana](https://github.com/nicyar/presupuestador-urbana)**
+Aplicación de escritorio que genera presupuestos en PDF, en uso real por un cliente.
+`Electron` · `JavaScript`
+
+**[Ecommerce-Rest-Api](https://github.com/nicyar/Ecommerce-Rest-Api)**
+API REST de e-commerce con arquitectura en capas, autenticación y notificaciones automáticas.
+`Node.js` · `Express` · `MongoDB` · `JWT`
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2A3C,100:2E6F9E&height=100&section=footer" width="100%" />
+</div>
