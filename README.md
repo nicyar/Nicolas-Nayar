@@ -18,15 +18,15 @@
 
 Desarrollador backend orientado a sistemas, con foco en Node.js y Python. Diseño arquitecturas en capas, trabajo con bases de datos relacionales y no relacionales, y automatizo procesos que hoy suelen resolverse a mano.
 
-**Stack principal:** Node.js · Express · Python · FastAPI · React · MySQL · MongoDB · Git
+**Stack principal:** Node.js · Express · Python · FastAPI · React · MySQL · MongoDB · Docker · Git
 
 <br />
 
 ## Proyectos destacados
 
 **[RecepcionDocumentacion](https://github.com/nicyar/RecepcionDocumentacion)**
-Sistema que recibe libros de sueldos en PDF, los analiza con un microservicio en Python y valida reglas de negocio (CUIT, período, firmante, vigencia de certificado) antes de aceptar o rechazar cada documento.
-`Node.js` · `Express` · `MySQL` · `Python` · `FastAPI` · `React`
+Sistema que recibe libros de sueldos en PDF, los analiza con un microservicio en Python y valida reglas de negocio (CUIT, período, firmante, vigencia de certificado) antes de aceptar o rechazar cada documento. Dockerizado con Docker Compose (MySQL, backend, microservicio y frontend).
+`Node.js` · `Express` · `MySQL` · `Python` · `FastAPI` · `React` · `Docker`
 
 **[limpiarMail](https://github.com/nicyar/limpiarMail)**
 Automatización en Python que filtra y limpia una casilla de correo por lista negra de CUITs, corriendo de forma autónoma vía GitHub Actions.
@@ -39,6 +39,14 @@ Aplicación de escritorio que genera presupuestos en PDF, en uso real por un cli
 **[Ecommerce-Rest-Api](https://github.com/nicyar/Ecommerce-Rest-Api)**
 API REST de e-commerce con arquitectura en capas, autenticación y notificaciones automáticas.
 `Node.js` · `Express` · `MongoDB` · `JWT`
+
+<br />
+
+## Proyectos con IA
+
+**[Automatizacion-de-X](https://github.com/nicyar/Automatizacion-de-X)**
+Sistema que vigila cuentas de X, avisa por Telegram y, con un toque, propone 3 reescrituras de cada tweet con la API de Gemini para publicar uno propio. Desarrollado junto a Claude Code y dockerizado.
+`Python` · `Flask` · `Telegram` · `Gemini API` · `SQLite` · `Docker`
 
 <br />
 
