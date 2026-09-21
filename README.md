@@ -32,7 +32,7 @@ Sistema que recibe libros de sueldos en PDF, los analiza con un microservicio en
 Automatización en Python que filtra y limpia una casilla de correo por lista negra de CUITs, corriendo de forma autónoma vía GitHub Actions.
 `Python` · `IMAP` · `GitHub Actions`
 
-**[presupuestador-urbana](https://github.com/nicyar/presupuestador-urbana)**
+**[presupuestador-urbana](https://github.com/nicyar/Presupuestador)**
 Aplicación de escritorio que genera presupuestos en PDF, en uso real por un cliente.
 `Electron` · `JavaScript`
 
