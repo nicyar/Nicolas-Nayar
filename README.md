@@ -48,6 +48,10 @@ API REST de e-commerce con arquitectura en capas, autenticación y notificacione
 Sistema que vigila cuentas de X, avisa por Telegram y, con un toque, propone 3 reescrituras de cada tweet con la API de Gemini para publicar uno propio. Desarrollado junto a Claude Code y dockerizado.
 `Python` · `Flask` · `Telegram` · `Gemini API` · `SQLite` · `Docker`
 
+**[hilo-store-ai](https://github.com/nicyar/hilo-store-ai)**
+Ecommerce de medias completo (catálogo, login con email y Google, carrito, checkout con Mercado Pago o transferencia y panel de administración), diseñado, construido y testeado por un equipo de agentes de IA coordinados con Claude Code. El servidor recalcula precios y stock, y los pedidos son idempotentes y atómicos.
+`Node.js` · `Express` · `SQLite` · `React` · `Vite` · `Mercado Pago` · `Claude Code`
+
 <br />
 
 <div align="center">
